@@ -16,6 +16,12 @@ namespace SIO1_ProfDeCalcul
         {
             InitializeComponent();
         }
+
+        //---------  ESSAI MODIFICATION PAR GIT
+         public static int a;
+        //-----------------------------------------
+
+
         //=====================================================
 
         # region VARIABLES GLOBALES
