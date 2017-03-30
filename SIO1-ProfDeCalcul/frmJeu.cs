@@ -20,6 +20,10 @@ namespace SIO1_ProfDeCalcul
         //---------  ESSAI MODIFICATION PAR GIT
          public static int a;
         //-----------------------------------------
+        //---------  ESSAI MODIFICATION branche master
+        // --------  la branche production a été créée mais ne doit pas être impactée
+        public static int b;
+        //-----------------------------------------------------------------------
 
 
         //=====================================================
